@@ -35,8 +35,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 🐧 **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
 
 🚀 **Lifelong Learner** - I strive to learn something new every day and apply that knowledge in real-world projects
@@ -54,14 +52,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanchopi37&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchopi37&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanchopi37&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -116,6 +107,7 @@
 
 ### ⚙️ Backend & Runtime
 
+
 <p align="center">
   <a href="https://nodejs.org/en/docs/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -155,23 +147,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/juanchopi37?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanchopi37&repo=juanchopi37&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/juanchopi37?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-61DAFB?style=for-the-badge&logo=github&logoColor=black" alt="View All Projects" />
-  </a>
-</div>
-
 ---
 
 ## 🎯 Current Goals
