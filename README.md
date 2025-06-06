@@ -3,7 +3,7 @@
 
   <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Physics+%26+Quantum+Mechanics+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+Learning+Something+New+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Linux+Enthusiast+%F0%9F%90%A7;Always+Learning+Something+New+%F0%9F%A7%A0;Need+help+centering+that+div%3F+%F0%9F%98%89)](https://git.io/typing-svg)
 
   <br/>
 
@@ -37,7 +37,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-⚛️ **Physics Enthusiast** - I enjoy reading about science, and lately, I've become particularly fascinated by physics and quantum mechanics
+🐧 **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
 
 🚀 **Lifelong Learner** - I strive to learn something new every day and apply that knowledge in real-world projects
 
@@ -45,7 +45,7 @@
 
 💡 **Problem Solver** - I love tackling complex challenges and finding elegant solutions
 
-🌟 **Open Source Advocate** - Contributing to the community and collaborating on meaningful projects
+💻 **Code Craftsman** - Writing clean, maintainable, and elegant code that brings ideas to life
 
 <br clear="right"/>
 
@@ -177,9 +177,9 @@
 ## 🎯 Current Goals
 
 - 🔥 **Learning**: Advanced React patterns and performance optimization
-- 🌱 **Exploring**: Quantum computing algorithms and their applications
-- 🤝 **Contributing**: More to open source projects
-- 📚 **Studying**: Advanced physics concepts and their real-world applications
+- 🌱 **Exploring**: New terminal productivity tools and development workflows
+- 🤝 **Building**: Side projects to showcase creative coding techniques
+- 📚 **Studying**: System design and architecture patterns for scalable apps
 - 🎨 **Creating**: Beautiful and functional user interfaces
 
 ---
