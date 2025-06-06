@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="assets/beatiful-header.png" alt="Juan Carlos" />
-  
+  <img src="assets/beatiful-header.svg" alt="Juan Carlos" />
   <br/>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Physics+%26+Quantum+Mechanics+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+Learning+Something+New+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
   
   <br/>
   
@@ -75,6 +72,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -94,6 +92,7 @@
 </p>
 
 ### 🌐 Frontend Technologies
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -113,6 +112,7 @@
 </p>
 
 ### ⚙️ Backend & Runtime
+
 <p align="center">
   <a href="https://nodejs.org/en/docs/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -126,6 +126,7 @@
 </p>
 
 ### 🗄️ Database & Design
+
 <p align="center">
   <a href="https://dev.mysql.com/doc/">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -139,6 +140,7 @@
 </p>
 
 ### 🔧 Tools & Workflow
+
 <p align="center">
   <a href="https://git-scm.com/doc">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -207,3 +209,4 @@
   ![Snake animation](https://github.com/juanchopi37/juanchopi37/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
