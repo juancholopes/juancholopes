@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi I'm Juan Carlos</h1>
+  <img src="assets/beatiful-header.png" alt="Juan Carlos" />
 </div>
 
 <p align="center">
