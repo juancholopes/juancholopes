@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/beatiful-header.svg" alt="Juan Carlos" />
+  <img src="assets/beatiful-header.png" alt="Juan Carlos" />
 
   <br/>
 
