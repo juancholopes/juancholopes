@@ -86,8 +86,8 @@
        id="rect1-6-5-3-7-5" /><rect
        x="119.37964"
        y="28.722921"
-       width="128.88052"
-       height="21.975065"
+       width="217.02258"
+       height="53.263992"
        id="rect1-6-5-3-7-5-0" /></defs><g
      id="layer1"
      transform="translate(-440)"><text
@@ -99,17 +99,12 @@
          y="38.204182"
          id="tspan3">Software Developer</tspan></text><text
        xml:space="preserve"
-       transform="matrix(0.66803455,0,0,0.66803455,444.52075,-14.257075)"
+       transform="matrix(0.61536544,0,0,0.66803455,430.54309,-14.257075)"
        id="text1-7-8-4-1-6-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4829px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-6-5-3-7-5-0);display:inline;fill:#678bff;fill-opacity:1;stroke-width:0.396686;stroke-dasharray:none"><tspan
          x="119.37891"
          y="45.31526"
-         id="tspan4">Hi I'm Juan </tspan><tspan
-         x="119.37891"
-         y="67.28987"
-         id="tspan6"><tspan
-           dx="0 11.089747 11.089747 11.089746 11.089748 11.089748"
-           id="tspan5">Carlos</tspan></tspan></text><g
+         id="tspan4">Hi I'm Juan Carlos</tspan></text><g
        id="g1"
        transform="translate(9.1796538)"><g
          id="g3-7-8-5-7"
