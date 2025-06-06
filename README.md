@@ -47,12 +47,18 @@
 
 <br clear="right"/>
 
-
 ## Portfolio
+
 <div align="center">
   <a href="https://juancarloslopezmoreno.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
+</div>
+
+## Neovim Preview
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/juanchopi37/juanchopi37/main/assets/neovim-preview.png" alt="Neovim Preview" />
 </div>
 
 ## 📊 GitHub Statistics
@@ -104,7 +110,6 @@
 </p>
 
 ### ⚙️ Backend & Runtime
-
 
 <p align="center">
   <a href="https://nodejs.org/en/docs/">
