@@ -61,14 +61,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchopi37&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanchopi37&theme=react-dark&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=C9D1D9" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
