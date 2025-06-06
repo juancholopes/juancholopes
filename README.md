@@ -58,7 +58,7 @@
 ## Neovim Preview
 
 <div align="center">
-  <img src="/assets/neovim-preview.png" alt="Neovim Preview" />
+  <img src="assets/neovim.png" alt="Neovim Preview" />
 </div>
 
 ## 📊 GitHub Statistics
