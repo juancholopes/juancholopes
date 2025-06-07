@@ -64,6 +64,7 @@
 - Nushell as my shell
 - Zellij as my multiplexer
 - Neovim as my editor
+- LazyVim as my Neovim configuration (plugins and more)
 - Wezterm as my terminal
 - Starship as my prompt terminal
 
