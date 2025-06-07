@@ -61,6 +61,12 @@
   <img src="assets/neovim.png" alt="Neovim Preview" />
 </div>
 
+- Nushell as my shell
+- Zellij as my multiplexer
+- Neovim as my editor
+- Wezterm as my terminal
+- Starship as my prompt terminal
+
 ## 📊 GitHub Statistics
 
 <div align="center">
