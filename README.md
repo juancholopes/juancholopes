@@ -7,24 +7,18 @@
 
   <br/>
 
-  <p align="center" display="flex" flex-direction="row" justify-content="center" align-items="center">
+  <p align="center">
     <a href="https://archlinux.org/">
-      <img src="https://skillicons.dev/icons?i=arch" max-width=64px />
+      <img src="https://skillicons.dev/icons?i=arch" />
     </a>
     <a href="https://www.notion.com/">
-      <img src="assets/notion.png" max-width=64px/>
+      <img src="https://skillicons.dev/icons?i=notion" />
     </a>
     <a href="https://neovim.io/">
-      <img src="https://skillicons.dev/icons?i=neovim" max-width=64px/>
-    </a>
-    <a href="https://zed.dev/">
-      <img src="assets/zed-blue.png" max-width=64px/>
-    </a>
-    <a href="https://zen-browser.app/">
-      <img src="assets/Zen-Color-Coral.svg" max-width=64px/>
+      <img src="https://skillicons.dev/icons?i=neovim" />
     </a>
     <a href="https://obsidian.md/">
-      <img src="https://skillicons.dev/icons?i=obsidian" max-width=64px />
+      <img src="https://skillicons.dev/icons?i=obsidian" />
     </a>
   </p>
 
