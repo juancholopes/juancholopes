@@ -9,19 +9,16 @@
 
   <p align="center">
     <a href="https://archlinux.org/">
-      <img src="https://cdn.simpleicons.org/archlinux" width="48" height="48" alt="Arch Linux" />
+      <img src="https://skillicons.dev/icons?i=arch" />
     </a>
     <a href="https://www.notion.com/">
-      <img src="https://cdn.simpleicons.org/notion" width="48" height="48" alt="Notion" />
+      <img src="https://skillicons.dev/icons?i=notion" />
     </a>
     <a href="https://neovim.io/">
-      <img src="https://cdn.simpleicons.org/neovim" width="48" height="48" alt="Neovim" />
+      <img src="https://skillicons.dev/icons?i=neovim" />
     </a>
     <a href="https://obsidian.md/">
-      <img src="https://cdn.simpleicons.org/obsidian" width="48" height="48" alt="Obsidian" />
-    </a>
-    <a href="https://zen-browser.app/">
-      <img src="https://cdn.simpleicons.org/zenbrowser" width="48" height="48" alt="Zen Browser" />
+      <img src="https://skillicons.dev/icons?i=obsidian" />
     </a>
   </p>
 
@@ -31,11 +28,6 @@
 <br/>
 
 ## 👨‍💻 About Me
-
-<ul>
-  <li><img src="https://cdn.simpleicons.org/python" width="20"/> Python</li>
-  <li><img src="https://cdn.simpleicons.org/node.js" width="20"/> Node.js</li>
-</ul>
 
 🐧 **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
 
@@ -61,12 +53,12 @@
   <img src="assets/neovim.png" alt="Neovim Preview" />
 </div>
 
-- <img src="https://cdn.simpleicons.org/nushell" width="16" height="16" alt="Nushell" /> Nushell as my shell
-- <img src="https://cdn.simpleicons.org/zellij" width="16" height="16" alt="Zellij" /> Zellij as my multiplexer
-- <img src="https://cdn.simpleicons.org/neovim" width="16" height="16" alt="Neovim" /> Neovim as my editor
-- <img src="https://cdn.simpleicons.org/lazyvim" width="16" height="16" alt="LazyVim" /> LazyVim as my Neovim configuration (plugins and more)
-- <img src="https://cdn.simpleicons.org/wezterm" width="16" height="16" alt="Wezterm" /> Wezterm as my terminal
-- <img src="https://cdn.simpleicons.org/starship" width="16" height="16" alt="Starship" /> Starship as my prompt terminal
+- Nushell as my shell
+- Zellij as my multiplexer
+- Neovim as my editor
+- LazyVim as my Neovim configuration (plugins and more)
+- Wezterm as my terminal
+- Starship as my prompt terminal
 
 ### Did you like this neovim setup?
 
@@ -87,13 +79,15 @@ You can visit him [here](https://github.com/Gentleman-Programming/Gentleman.Dots
 
 It's an IDE that I've been testing in the last few days; it's definitely an alternative to VSCode, fast, lightweight, and with a growing community (oh, and written in rust 😎).
 
-- <img src="https://cdn.simpleicons.org/jetbrains" width="16" height="16" alt="JetBrains" /> Font: JetBrainsMono Nerd Font
+- Font: JetBrainsMono Nerd Font
 - Icon Theme: Catppucin Mocha
 - Theme: Vesper
 
-You can try <img src="https://cdn.simpleicons.org/zedindustries" width="16" height="16" alt="Zed" /> Zed. Download it [here](https://zed.dev/download).
+You can try Zed. Download it [here](https://zed.dev/download).
 
 ## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -111,6 +105,11 @@ You can try <img src="https://cdn.simpleicons.org/zedindustries" width="16" heig
   <a href="https://www.lua.org/docs.html">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   </a>
+</p>
+
+### 🌐 Frontend Technologies
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
@@ -124,34 +123,49 @@ You can try <img src="https://cdn.simpleicons.org/zedindustries" width="16" heig
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   </a>
   <a href="https://getbootstrap.com/docs/">
-    <img src="https://cdn.simpleicons.org/bootstrap" width="40" height="40" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
+</p>
+
+### ⚙️ Backend & Runtime
+
+<p align="center">
   <a href="https://nodejs.org/en/docs/">
-    <img src="https://cdn.simpleicons.org/nodedotjs" width="40" height="40" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   </a>
   <a href="https://bun.sh/docs">
-    <img src="https://cdn.simpleicons.org/bun" width="40" height="40" alt="Bun" />
+    <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
   </a>
   <a href="https://docs.npmjs.com/">
-    <img src="https://cdn.simpleicons.org/npm" width="40" height="40" alt="NPM" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   </a>
+</p>
+
+### 🗄️ Database & Design
+
+<p align="center">
   <a href="https://dev.mysql.com/doc/">
-    <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
   <a href="https://help.figma.com/">
-    <img src="https://cdn.simpleicons.org/figma" width="40" height="40" alt="Figma" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
   <a href="https://www.framer.com/docs/">
-    <img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="Framer" />
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
   </a>
+</p>
+
+### 🔧 Tools & Workflow
+
+<p align="center">
   <a href="https://git-scm.com/doc">
-    <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
   <a href="https://docs.github.com/">
-    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://learning.postman.com/docs/">
-    <img src="https://cdn.simpleicons.org/postman" width="40" height="40" alt="Postman" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
 </p>
 
