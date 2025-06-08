@@ -9,16 +9,22 @@
 
   <p align="center">
     <a href="https://archlinux.org/">
-      <img src="https://skillicons.dev/icons?i=arch" />
+      <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="48" height="48" />
     </a>
     <a href="https://www.notion.com/">
-      <img src="https://skillicons.dev/icons?i=notion" />
+      <img src="https://cdn.simpleicons.org/notion/000000" width="48" height="48" />
     </a>
     <a href="https://neovim.io/">
-      <img src="https://skillicons.dev/icons?i=neovim" />
+      <img src="https://cdn.simpleicons.org/neovim/57A143" width="48" height="48" />
     </a>
     <a href="https://obsidian.md/">
-      <img src="https://skillicons.dev/icons?i=obsidian" />
+      <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="48" height="48" />
+    </a>
+    <a href="https://zen-browser.app/">
+      <img src="https://cdn.simpleicons.org/zenbrowser/FF4500" width="48" height="48" />
+    </a>
+    <a href="https://zed.dev/">
+      <img src="https://cdn.simpleicons.org/zedindustries/084CCF" width="48" height="48" />
     </a>
   </p>
 
