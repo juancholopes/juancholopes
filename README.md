@@ -33,7 +33,9 @@
 
 <br/>
 
-## 👨‍💻 About Me
+<div align="center">
+  <h1>About Me</h1>
+</div>
 
 🐧 **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
 
@@ -91,7 +93,9 @@ It's an IDE that I've been testing in the last few days; it's definitely an alte
 
 You can try Zed. Download it [here](https://zed.dev/download).
 
-## 🛠️ Tech Stack
+<div align="center">
+  <h1>Tech Stack</h1>
+</div>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -153,9 +157,9 @@ You can try Zed. Download it [here](https://zed.dev/download).
   </a>
 </p>
 
----
-
-## 🎯 Current Goals
+<div align="center">
+  <h1>Current Goals</h1>
+</div>
 
 - 🔥 **Learning**: Advanced React patterns and performance optimization
 - 🌱 **Exploring**: New terminal productivity tools and development workflows
@@ -163,9 +167,9 @@ You can try Zed. Download it [here](https://zed.dev/download).
 - 📚 **Studying**: System design and architecture patterns for scalable apps
 - 🎨 **Creating**: Beautiful and functional user interfaces
 
----
-
-## 🌐 Connect With Me
+<div align="center">
+  <h1>Contact With Me</h1>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-carlos-lopez-moreno-9a29b0299/">
