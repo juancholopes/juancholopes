@@ -29,6 +29,11 @@
 
 ## 👨‍💻 About Me
 
+<ul>
+  <li><img src="https://cdn.simpleicons.org/python" width="20"/> Python</li>
+  <li><img src="https://cdn.simpleicons.org/node.js" width="20"/> Node.js</li>
+</ul>
+
 🐧 **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
 
 🚀 **Lifelong Learner** - I strive to learn something new every day and apply that knowledge in real-world projects
@@ -85,15 +90,7 @@ It's an IDE that I've been testing in the last few days; it's definitely an alte
 
 You can try Zed. Download it [here](https://zed.dev/download).
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchopi37&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9"/>
-</div>
-
 ## 🛠️ Tech Stack
-
-### 💻 Programming Languages
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -111,11 +108,6 @@ You can try Zed. Download it [here](https://zed.dev/download).
   <a href="https://www.lua.org/docs.html">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   </a>
-</p>
-
-### 🌐 Frontend Technologies
-
-<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
@@ -131,11 +123,6 @@ You can try Zed. Download it [here](https://zed.dev/download).
   <a href="https://getbootstrap.com/docs/">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
-</p>
-
-### ⚙️ Backend & Runtime
-
-<p align="center">
   <a href="https://nodejs.org/en/docs/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   </a>
@@ -145,11 +132,6 @@ You can try Zed. Download it [here](https://zed.dev/download).
   <a href="https://docs.npmjs.com/">
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   </a>
-</p>
-
-### 🗄️ Database & Design
-
-<p align="center">
   <a href="https://dev.mysql.com/doc/">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
@@ -159,11 +141,6 @@ You can try Zed. Download it [here](https://zed.dev/download).
   <a href="https://www.framer.com/docs/">
     <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
   </a>
-</p>
-
-### 🔧 Tools & Workflow
-
-<p align="center">
   <a href="https://git-scm.com/doc">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
