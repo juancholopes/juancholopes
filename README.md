@@ -7,7 +7,7 @@
 
   <br/>
 
-  <p align="center">
+  <p align="center" gap=10px>
     <a href="https://archlinux.org/">
       <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="48" height="48" />
     </a>
