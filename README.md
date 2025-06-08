@@ -47,10 +47,12 @@
 
 <br clear="right"/>
 
-## My code spcace 
+<div align="center">
+  <h1>My Code Space</h1>
+</div>
 
 <div align="center">
-  <h1>Neovim + LazyVim</h1>
+  <h2>Neovim + LazyVim</h2>
 </div>
 
 <div align="center">
@@ -65,6 +67,7 @@
 - Starship as my prompt terminal
 
 ### Did you like this neovim setup?
+
 You can try this setup.
 
 https://github.com/juanchopi37/nvim.dots
@@ -72,12 +75,21 @@ https://github.com/juanchopi37/nvim.dots
 Thanks to Gentleman Programming, this entire setup is a fork of his main project.
 You can visit him [here](https://github.com/Gentleman-Programming/Gentleman.Dots); he's constantly adding cool stuff.
 
+<div align="center">
+  <h2>Zed IDE</h2>
+</div>
 
 <div align="center">
-  <h1>Zed IDE</h1>
+  <img src="assets/zed-preview.png" alt="Zed Preview" />
 </div>
 
 It's an IDE that I've been testing in the last few days; it's definitely an alternative to VSCode, fast, lightweight, and with a growing community (oh, and written in rust 😎).
+
+- Font: JetBrainsMono Nerd Font
+- Icon Theme: Catppucin Mocha
+- Theme: Vesper
+
+You can try Zed. Download it [here](https://zed.dev/download).
 
 ## 📊 GitHub Statistics
 
