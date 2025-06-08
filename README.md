@@ -12,19 +12,19 @@
       <img src="https://skillicons.dev/icons?i=arch" />
     </a>
     <a href="https://www.notion.com/">
-      <img src="https://skillicons.dev/icons?i=notion" />
+      <img src="assets/notion.png" />
     </a>
     <a href="https://neovim.io/">
       <img src="https://skillicons.dev/icons?i=neovim" />
     </a>
+    <a href="https://zed.dev/">
+      <img src="assets/zed-blue.png" />
+    </a>
+    <a href="https://zen-browser.app/">
+      <img src="assets/Zen-Color-Coral.svg" />
+    </a>
     <a href="https://obsidian.md/">
       <img src="https://skillicons.dev/icons?i=obsidian" />
-    </a>
-    <a href="https://www.microsoft.com/windows">
-      <img src="https://skillicons.dev/icons?i=windows" />
-    </a>
-    <a href="https://code.visualstudio.com/">
-      <img src="https://skillicons.dev/icons?i=vscode" />
     </a>
   </p>
 
