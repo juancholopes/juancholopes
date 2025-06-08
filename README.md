@@ -7,7 +7,7 @@
 
   <br/>
 
-  <p align="center">
+  <p align="center" display="flex" flex-direction="row" justify-content="center" align-items="center">
     <a href="https://archlinux.org/">
       <img src="https://skillicons.dev/icons?i=arch" max-width=64px />
     </a>
