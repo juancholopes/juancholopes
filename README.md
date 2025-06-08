@@ -68,6 +68,14 @@
 - Wezterm as my terminal
 - Starship as my prompt terminal
 
+### Did you like this neovim setup?
+You can try this setup.
+
+https://github.com/juanchopi37/nvim.dots
+
+Thanks to Gentleman Programming, this entire setup is a fork of his main project.
+You can visit him [here](https://github.com/Gentleman-Programming/Gentleman.Dots); he's constantly adding cool stuff.
+
 ## 📊 GitHub Statistics
 
 <div align="center">
