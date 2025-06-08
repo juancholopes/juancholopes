@@ -47,15 +47,11 @@
 
 <br clear="right"/>
 
-## Portfolio
+## My code spcace 
 
 <div align="center">
-  <a href="https://juancarloslopezmoreno.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
+  <h1>Neovim + LazyVim</h1>
 </div>
-
-## Neovim Preview
 
 <div align="center">
   <img src="assets/neovim.png" alt="Neovim Preview" />
@@ -75,6 +71,13 @@ https://github.com/juanchopi37/nvim.dots
 
 Thanks to Gentleman Programming, this entire setup is a fork of his main project.
 You can visit him [here](https://github.com/Gentleman-Programming/Gentleman.Dots); he's constantly adding cool stuff.
+
+
+<div align="center">
+  <h1>Zed IDE</h1>
+</div>
+
+It's an IDE that I've been testing in the last few days; it's definitely an alternative to VSCode, fast, lightweight, and with a growing community (oh, and written in rust 😎).
 
 ## 📊 GitHub Statistics
 
@@ -189,6 +192,9 @@ You can visit him [here](https://github.com/Gentleman-Programming/Gentleman.Dots
   </a>
   <a href="https://www.instagram.com/juancho_lopez_11/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://juancarloslopezmoreno.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
