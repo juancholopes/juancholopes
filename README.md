@@ -12,7 +12,7 @@
       <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="48" height="48" />
     </a>
     <a href="https://www.notion.com/">
-      <img src="https://cdn.simpleicons.org/notion/ffffff" width="48" height="48" />
+      <img src="https://cdn.simpleicons.org/notion/7c7c7c" width="48" height="48" />
     </a>
     <a href="https://neovim.io/">
       <img src="https://cdn.simpleicons.org/neovim/57A143" width="48" height="48" />
