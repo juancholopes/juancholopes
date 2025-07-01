@@ -196,8 +196,4 @@ You can try Zed. Download it [here](https://zed.dev/download).
 **Thanks for visiting! 🚀 Let's build something amazing together!**
 
   <br/>
-
-  <img src="https://raw.githubusercontent.com/juanchopi37/juanchopi37/output/snake.svg" alt="Snake animation" />
-
-###
 </div>
