@@ -70,9 +70,7 @@
 
 ### Did you like this neovim setup?
 
-You can try this setup.
-
-https://github.com/juanchopi37/nvim.dots
+You can [try](https://github.com/juancholops/nvim.dots) this setup.
 
 Thanks to Gentleman Programming, this entire setup is a fork of his main project.
 You can visit him [here](https://github.com/Gentleman-Programming/Gentleman.Dots); he's constantly adding cool stuff.
@@ -178,7 +176,7 @@ You can try Zed. Download it [here](https://zed.dev/download).
   <a href="https://x.com/juancho_l0pez">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://www.instagram.com/juancho_lopez_11/">
+  <a href="https://www.instagram.com/juancholops/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://juancarloslopezmoreno.netlify.app/">
