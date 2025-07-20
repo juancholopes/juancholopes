@@ -192,11 +192,5 @@ You can try Zed. Download it [here](https://zed.dev/download).
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer&animation=fadeIn" alt="Footer Wave" />
-
-  <br/>
-
 **Thanks for visiting! 🚀 Let's build something amazing together!**
-
-  <br/>
 </div>
