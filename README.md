@@ -192,5 +192,5 @@ You can try Zed. Download it [here](https://zed.dev/download).
 ---
 
 <div align="center">
-  **Thanks for visiting! 🚀 Let's build something amazing together!**
+  Thanks for visiting! 🚀 Let's build something amazing together!
 </div>
