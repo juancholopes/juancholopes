@@ -27,9 +27,14 @@
       <img src="https://cdn.simpleicons.org/zedindustries/084CCF" width="48" height="48" />
     </a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=juancholopes&color=61dafb&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juancholopes&label=Profile%20views&color=9F7AEA&style=flat" alt="Profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/juancholopes?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/juancholopes?style=social">
+</p>
+
 
 <br/>
 
