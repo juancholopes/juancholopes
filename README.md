@@ -19,6 +19,8 @@
   <h1>About Me</h1>
 </div>
 
+Hello everyone, my name is Juan Carlos Lopez, affectionately called Juancho. I was born and raised in a small town dedicated to coffee production. I started programming and fell in love with this industry a few years ago. Like everyone when starting in the world of software development, there are countless paths to choose from. At first, I wanted to dedicate myself to cybersecurity, but little by little I leaned towards web development and, in general, developing applications and services that can be deployed on cloud infrastructure. I like to read and listen to music, I like to be honest and help people. I have several projects and goals that I plan to achieve. I hope you like my work - I always try to be organized in everything.
+
  **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
 
  **Lifelong Learner** - I strive to learn something new every day and apply that knowledge in real-world projects
@@ -31,45 +33,79 @@
 
 <br clear="right"/>
 
-<div align="center">
-  <h1>My Code Space</h1>
+---
+
+## 💼 Portfolio & Projects
+
+### 🏥 Full-Stack Applications
+
+<div align="left">
+<img align="right" alt="Vet Care" src="./assets/vet-care-preview.png" height="150" />
+
+**Vet-Care** - *Complete Veterinary Management System*
+> Full-stack application for veterinary appointment management with separate dashboards for users and veterinarians. Features real-time scheduling, patient records, and secure authentication system.
+
+[![Frontend Demo](https://img.shields.io/badge/Frontend_Demo-61DAFB?style=flat&logo=react&logoColor=white)](https://vet-care-frontend.netlify.app)
+[![Backend API](https://img.shields.io/badge/Backend_API-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/juanchopi37/vet-care-backend#api-documentation)
+[![Frontend Code](https://img.shields.io/badge/Frontend_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/juanchopi37/vet-care-frontend)
+[![Backend Code](https://img.shields.io/badge/Backend_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/juanchopi37/vet-care-backend)
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MySQL, Sequelize, JWT
 </div>
 
-<div align="center">
-  <h2>Neovim + LazyVim</h2>
+<br clear="right"/>
+
+### 🌐 Web Development
+
+<div align="left">
+<img align="right" alt="Portfolio" src="./assets/portfolio-preview.png" height="150" />
+
+**Personal Portfolio** - *Modern Developer Portfolio*
+> Responsive web portfolio showcasing my work and skills. Built with modern technologies and minimalist design principles, featuring smooth animations and optimized performance.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=firefox&logoColor=white)](https://juancarloslopezmoreno.netlify.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/juanchopi37/my-porfolio.dots)
+
+**Tech Stack:** React, TypeScript, Tailwind CSS, Responsive Design
 </div>
 
-<div align="center">
-  <img src="assets/neovim.png" alt="Neovim Preview" />
+<br clear="right"/>
+
+<div align="left">
+<img align="right" alt="Notion Landing" src="./assets/notion-preview.png" height="150" />
+
+**Notion Landing Page** - *UI/UX Clone Project*
+> Pixel-perfect recreation of Notion's landing page as my first approach to software development. Focused on responsive design and modern web standards.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=notion&logoColor=white)](https://juancholopes.github.io/notion-landing.github.io/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/juancholopes/notion-landing.github.io)
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design
 </div>
 
-- Nushell as my shell
-- Zellij as my multiplexer
-- Neovim as my editor
-- LazyVim as my Neovim configuration (plugins and more)
-- Wezterm as my terminal
-- Starship as my prompt terminal
+<br clear="right"/>
 
-You can [try](https://github.com/juancholops/nvim.dots) this setup.
+### 🔐 Backend & APIs
 
-Thanks to Gentleman Programming, this entire setup is a fork of his main project.
-You can visit him [here](https://github.com/Gentleman-Programming/Gentleman.Dots); he's constantly adding cool stuff.
+> **Authentication API** - *Secure REST API with JWT*
+> 
+> [![API Docs](https://img.shields.io/badge/API_Documentation-007ACC?style=flat&logo=postgresql&logoColor=white)](https://github.com/juanchopi37/my-porfolio.dots)
+> [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/juanchopi37/my-porfolio.dots)
+> 
+> **Tech Stack:** PostgreSQL, JavaScript, JWT, Sequelize, REST API
 
-<div align="center">
-  <h2>Zed IDE</h2>
-</div>
+---
 
-<div align="center">
-  <img src="assets/zed-preview.png" alt="Zed Preview" />
-</div>
+## 🏆 Certifications & Achievements
 
-It's an IDE that I've been testing in the last few days; it's definitely an alternative to VSCode, fast, lightweight, and with a growing community (oh, and written in rust 😎).
-
-- Font: JetBrainsMono Nerd Font
-- Icon Theme: Catppucin Mocha
-- Theme: Vesper
-
-You can try Zed. Download it [here](https://zed.dev/download).
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_Azure-Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure Fundamentals" />
+<img src="https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/IBM-Data_Science_Professional-052FAD?style=flat&logo=ibm&logoColor=white" alt="IBM Data Science" />
+<img src="https://img.shields.io/badge/Platzi-JavaScript_School-98CA3F?style=flat&logo=platzi&logoColor=white" alt="Platzi JavaScript" />
+<img src="https://img.shields.io/badge/MinTIC-Programming_Certification-00B4D8?style=flat&logo=code&logoColor=white" alt="MinTIC" />
+</p>
 
 <div align="center">
   <h1>Tech Stack</h1>
@@ -139,11 +175,20 @@ You can try Zed. Download it [here](https://zed.dev/download).
   <h1>Current Goals</h1>
 </div>
 
+## 🎯 Professional Goals
+
 - 🔥 **Learning**: Advanced React patterns and performance optimization
 - 🌱 **Exploring**: New terminal productivity tools and development workflows
 - 🤝 **Building**: Side projects to showcase creative coding techniques
 - 📚 **Studying**: System design and architecture patterns for scalable apps
 - 🎨 **Creating**: Beautiful and functional user interfaces
+
+## 🌟 Life Goals
+
+- 👥 **Community Building**: Create a study and software development community
+- 📚 **Writing**: Write a book unrelated to programming, focused on literature
+- 🌍 **Language Learning**: Learn to speak English fluently to connect with more people and get better job opportunities
+- 🎓 **Education**: Start a Software Engineering degree (Bachelor's Degree)
 
 <div align="center">
   <h1>Contact With Me</h1>
