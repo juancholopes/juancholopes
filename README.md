@@ -19,17 +19,69 @@
   <h1>About Me</h1>
 </div>
 
-Hello everyone, my name is Juan Carlos Lopez, affectionately called Juancho. I was born and raised in a small town dedicated to coffee production. I started programming and fell in love with this industry a few years ago. Like everyone when starting in the world of software development, there are countless paths to choose from. At first, I wanted to dedicate myself to cybersecurity, but little by little I leaned towards web development and, in general, developing applications and services that can be deployed on cloud infrastructure. I like to read and listen to music, I like to be honest and help people. I have several projects and goals that I plan to achieve. I hope you like my work - I always try to be organized in everything.
+<div align="center">
+  <h1>About Me</h1>
+</div>
 
- **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
+<div align="center">
 
- **Lifelong Learner** - I strive to learn something new every day and apply that knowledge in real-world projects
+### 👋 Hello World! I'm Juancho
 
- **Knowledge Sharer** - I have a convergent learning style and take pleasure in helping others with what I know
+</div>
 
- **Problem Solver** - I love tackling complex challenges and finding elegant solutions
+Hello everyone, my name is **Juan Carlos Lopez**, affectionately called **Juancho**. I was born and raised in a small town dedicated to **☕ coffee production**. I started programming and fell in love with this industry a few years ago. Like everyone when starting in the world of software development, there are countless paths to choose from. At first, I wanted to dedicate myself to **🔐 cybersecurity**, but little by little I leaned towards **🌐 web development** and, in general, developing applications and services that can be deployed on **☁️ cloud infrastructure**. I like to **📚 read** and **🎵 listen to music**, I like to be **💯 honest** and **🤝 help people**. I have several projects and goals that I plan to achieve. I hope you like my work - I always try to be **📐 organized** in everything.
 
- **Code Craftsman** - Writing clean, maintainable, and elegant code that brings ideas to life
+<div align="center">
+
+### 🐧 Linux Enthusiast & Lifelong Learner
+
+</div>
+
+I'm a **Linux enthusiast** - it was my first approach to software development, so I have a lot of affection for it (I generally use **Arch Linux with GNOME** 🖥️).
+
+If there's something I didn't mention, it's that I **love learning**. I'm a learning enthusiast, and I'm not just talking about learning new technologies or programming languages, but learning everything that life can offer me 🌟.
+
+Related to my learning is that I also **love teaching**. I was educated in one of the best schools in Santander, Colombia, which is also pedagogical. This made me like teaching and doing it correctly and clearly 👨‍🏫.
+
+I like to **solve problems**, understand them, and try to find a solution. Everything has a why and what for, and personally, it's something I like to do, although sometimes not so much 🧩.
+
+I try to be **organized and pragmatic** with my life, and this covers almost everything, even the way I write code. I try to apply almost everything that can help me as a developer 💻.
+
+<div align="center">
+
+---
+
+### 🎯 What Drives Me
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<h3>🐧 Linux Enthusiast</h3>
+<p>Optimizing development environments and exploring Linux distros</p>
+</td>
+<td align="center" width="25%">
+<h3>🎓 Lifelong Learner</h3>
+<p>Learning something new every day and applying it to real projects</p>
+</td>
+<td align="center" width="25%">
+<h3>🤝 Knowledge Sharer</h3>
+<p>Helping others with convergent learning and clear teaching</p>
+</td>
+<td align="center" width="25%">
+<h3>🧩 Problem Solver</h3>
+<p>Tackling complex challenges and finding elegant solutions</p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💎 Code Craftsman
+*Writing clean, maintainable, and elegant code that brings ideas to life*
+
+</div>
 
 <br clear="right"/>
 
