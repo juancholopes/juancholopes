@@ -1,32 +1,10 @@
 <div align="center">
-  <img src="assets/beatiful-header.png" alt="Juan Carlos" />
+  <img src="./assets/header.png" alt="Juan Carlos" />
 
   <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Linux+Enthusiast+%F0%9F%90%A7;Always+Learning+Something+New+%F0%9F%A7%A0;Need+help+centering+that+div%3F+%F0%9F%98%89)](https://git.io/typing-svg)
 
-  <br/>
-
-  <p align="center" gap=10px>
-    <a href="https://archlinux.org/">
-      <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="48" height="48" />
-    </a>
-    <a href="https://www.notion.com/">
-      <img src="https://cdn.simpleicons.org/notion/7c7c7c" width="48" height="48" />
-    </a>
-    <a href="https://neovim.io/">
-      <img src="https://cdn.simpleicons.org/neovim/57A143" width="48" height="48" />
-    </a>
-    <a href="https://obsidian.md/">
-      <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="48" height="48" />
-    </a>
-    <a href="https://zen-browser.app/">
-      <img src="https://cdn.simpleicons.org/zenbrowser/FF4500" width="48" height="48" />
-    </a>
-    <a href="https://zed.dev/">
-      <img src="https://cdn.simpleicons.org/zedindustries/084CCF" width="48" height="48" />
-    </a>
-  </p>
 </div>
 
 <p align="center">
@@ -35,22 +13,21 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/juancholopes?style=social">
 </p>
 
-
 <br/>
 
 <div align="center">
   <h1>About Me</h1>
 </div>
 
-🐧 **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
+ **Linux Enthusiast** - I enjoy tinkering with Linux distros and optimizing my development environment
 
-🚀 **Lifelong Learner** - I strive to learn something new every day and apply that knowledge in real-world projects
+ **Lifelong Learner** - I strive to learn something new every day and apply that knowledge in real-world projects
 
-🧠 **Knowledge Sharer** - I have a convergent learning style and take pleasure in helping others with what I know
+ **Knowledge Sharer** - I have a convergent learning style and take pleasure in helping others with what I know
 
-💡 **Problem Solver** - I love tackling complex challenges and finding elegant solutions
+ **Problem Solver** - I love tackling complex challenges and finding elegant solutions
 
-💻 **Code Craftsman** - Writing clean, maintainable, and elegant code that brings ideas to life
+ **Code Craftsman** - Writing clean, maintainable, and elegant code that brings ideas to life
 
 <br clear="right"/>
 
@@ -72,8 +49,6 @@
 - LazyVim as my Neovim configuration (plugins and more)
 - Wezterm as my terminal
 - Starship as my prompt terminal
-
-### Did you like this neovim setup?
 
 You can [try](https://github.com/juancholops/nvim.dots) this setup.
 
@@ -174,7 +149,7 @@ You can try Zed. Download it [here](https://zed.dev/download).
   <h1>Contact With Me</h1>
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/juan-carlos-lopez-moreno-9a29b0299/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -187,7 +162,7 @@ You can try Zed. Download it [here](https://zed.dev/download).
   <a href="https://juancarloslopezmoreno.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-</div>
+</p>
 
 ---
 
