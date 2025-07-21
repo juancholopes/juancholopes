@@ -246,7 +246,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-carlos-lopez-moreno-9a29b0299/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/juancho_l0pez">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" />
