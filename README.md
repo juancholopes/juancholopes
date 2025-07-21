@@ -23,7 +23,11 @@
 
 </div>
 
-Hello everyone, my name is **Juan Carlos Lopez**, affectionately called **Juancho**. I was born and raised in a small town dedicated to **☕ coffee production**. I started programming and fell in love with this industry a few years ago. Like everyone when starting in the world of software development, there are countless paths to choose from. At first, I wanted to dedicate myself to **🔐 cybersecurity**, but little by little I leaned towards **🌐 web development** and, in general, developing applications and services that can be deployed on **☁️ cloud infrastructure**. I like to **📚 read** and **🎵 listen to music**, I like to be **💯 honest** and **🤝 help people**. I have several projects and goals that I plan to achieve. I hope you like my work - I always try to be **📐 organized** in everything.
+Hello everyone, my name is **Juan Carlos Lopez**, affectionately called **Juancho**. I was born and raised in a small countryside town dedicated to **☕ specialty coffee production** in Colombia. My parents are from the countryside and dedicate themselves to producing **specialty coffee** - I grew up in the countryside and it's something I'm deeply **proud of**. I love coffee, and it's curious how almost all developers seem to share this same passion! 
+
+I started programming and fell in love with this industry a few years ago. Like everyone starting in the world of software development, there are countless paths to choose from. Initially, I wanted to dedicate myself to **🔐 cybersecurity**, but gradually I found my calling in **🌐 web development** and, more broadly, developing applications and services that can be deployed on **☁️ cloud infrastructure**. 
+
+Beyond coding, I love to **📚 read** and **🎵 listen to music**. I believe in being **💯 honest** and **🤝 helping others**. I have several projects and ambitious goals that I'm determined to achieve. I hope you enjoy my work - I always strive to be **📐 organized and methodical** in everything I do, from life to code.
 
 <div align="center">
 
