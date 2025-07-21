@@ -13,12 +13,6 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/juancholopes?style=social">
 </p>
 
-<br/>
-
-<div align="center">
-  <h1>About Me</h1>
-</div>
-
 <div align="center">
   <h1>About Me</h1>
 </div>
