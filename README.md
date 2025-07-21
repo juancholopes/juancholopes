@@ -41,7 +41,7 @@ I'm a **Linux enthusiast** - it was my first approach to software development, s
 
 If there's something I didn't mention, it's that I **love learning**. I'm a learning enthusiast, and I'm not just talking about learning new technologies or programming languages, but learning everything that life can offer me 🌟.
 
-Related to my learning is that I also **love teaching**. I was educated in one of the best schools in Santander, Colombia, which is also pedagogical. This made me like teaching and doing it correctly and clearly 👨‍🏫.
+Related to my learning is that I also **love teaching**. I was educated in one of the best public schools in Santander, Colombia, which is also pedagogical. This made me like teaching and doing it correctly and clearly 👨‍🏫.
 
 I like to **solve problems**, understand them, and try to find a solution. Everything has a why and what for, and personally, it's something I like to do, although sometimes not so much 🧩.
 
