@@ -139,8 +139,8 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 > **Authentication API** - *Secure REST API with JWT*
 > 
-> [![API Docs](https://img.shields.io/badge/API_Documentation-007ACC?style=flat&logo=postgresql&logoColor=white)](https://github.com/juanchopi37/my-porfolio.dots)
-> [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/juanchopi37/my-porfolio.dots)
+> [![API Docs](https://img.shields.io/badge/API_Documentation-007ACC?style=flat&logo=postgresql&logoColor=white)](https://github.com/juancholopes/api-postgresql)
+> [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/juancholopes/api-postgresql)
 > 
 > **Tech Stack:** PostgreSQL, JavaScript, JWT, Sequelize, REST API
 
@@ -168,7 +168,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 > **DevOps on AWS and Project Management** - *Amazon Web Service*
 > 
-> [![Certificate](https://img.shields.io/badge/DevOps_AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
+> [![Certificate](https://img.shields.io/badge/AWS-DevOps_AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
 > [![View](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=LinkeDin&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
 > 
 > Comprehensive training in DevOps practices on AWS cloud platform and project management methodologies. Covered CI/CD pipelines, infrastructure as code, monitoring, and agile project management techniques.
@@ -177,7 +177,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 > **Cibersecurity Fundamentals** - *IBM*
 > 
-> [![Certificate](https://img.shields.io/badge/Cibersecurity_Fundamentals-0f62fe?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/bed6c707-70de-4c09-8e3b-84f4cedb79aa/public_url)
+> [![Certificate](https://img.shields.io/badge/IBM-_Cibersecurity_Fundamentals-0f62fe?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/bed6c707-70de-4c09-8e3b-84f4cedb79aa/public_url)
 > [![View](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=LinkeDin&logoColor=white)](https://www.credly.com/badges/bed6c707-70de-4c09-8e3b-84f4cedb79aa/public_url)
 > 
 > While cybersecurity is not my main area of specialization, I believe it’s essential for any developer—especially those building cloud-based services and applications—to understand its fundamentals. Through this course, I gained key knowledge about cyber threats, attack types, social engineering, cryptography, and the defense strategies organizations use to prevent and respond to security incidents.
