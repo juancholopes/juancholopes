@@ -159,8 +159,8 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 > **Full Stack Web Development Bootcamp** - *Ministry of ICT (MinTIC)*
 > 
-> [![Certificate](https://img.shields.io/badge/Full_Stack_Bootcamp-FF6B35?style=flat&logo=html5&logoColor=white)]([View Certicate](https://app.certika.co/certificate/OTk0MTY))
-> [![View Certificate](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=certificate&logoColor=white)]([View Certicate](https://app.certika.co/certificate/OTk0MTY))
+> [![Certificate](https://img.shields.io/badge/Full_Stack_Bootcamp-FF6B35?style=flat&logo=html5&logoColor=white)]((https://app.certika.co/certificate/OTk0MTY))
+> [![View Certificate](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=certificate&logoColor=white)]((https://app.certika.co/certificate/OTk0MTY))
 > 
 > Intensive bootcamp covering HTML, CSS, JavaScript, DOM manipulation, and Python. Gained hands-on experience building dynamic web applications and understanding both frontend and backend development fundamentals.
 
