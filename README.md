@@ -177,11 +177,10 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 > **Cibersecurity Fundamentals** - *IBM*
 > 
-> [![Certificate](https://img.shields.io/badge/Cibersecurity_Fundamentals-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/bed6c707-70de-4c09-8e3b-84f4cedb79aa/public_url)
+> [![Certificate](https://img.shields.io/badge/Cibersecurity_Fundamentals-0f62fe?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/bed6c707-70de-4c09-8e3b-84f4cedb79aa/public_url)
 > [![View](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=LinkeDin&logoColor=white)](https://www.credly.com/badges/bed6c707-70de-4c09-8e3b-84f4cedb79aa/public_url)
 > 
-> Comprehensive training in DevOps practices on AWS cloud platform and project management methodologies. Covered CI/CD pipelines, infrastructure as code, monitoring, and agile project management techniques.
-
+> While cybersecurity is not my main area of specialization, I believe it’s essential for any developer—especially those building cloud-based services and applications—to understand its fundamentals. Through this course, I gained key knowledge about cyber threats, attack types, social engineering, cryptography, and the defense strategies organizations use to prevent and respond to security incidents.
 <div align="center">
   <h1>Tech Stack</h1>
 </div>
@@ -206,7 +205,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS3" />
   </a>
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
@@ -265,7 +264,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 - 🌍 **Language Learning**: Learn to speak English fluently to connect with more people and get better job opportunities
 - 🎓 **Education**: Start a Software Engineering degree (Bachelor's Degree)
 
-## Tech Stack Goals 
+## ⛏️ Tech Stack Goals 
 
 - 🚀 **Learn Astro**: Astro is considered one of the most prominent JavaScript frameworks, and I intend to study it in the near future to enhance my development skills.
 - ☕ **Learn Java**: Actually, Java was the first programming language in which I wrote my first "Hello World" (not easy) and I wanted to reconcile with it and learn it.
