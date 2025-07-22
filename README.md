@@ -148,14 +148,30 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 ## 🏆 Certifications & Achievements
 
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft_Azure-Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure Fundamentals" />
-<img src="https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/IBM-Data_Science_Professional-052FAD?style=flat&logo=ibm&logoColor=white" alt="IBM Data Science" />
-<img src="https://img.shields.io/badge/Platzi-JavaScript_School-98CA3F?style=flat&logo=platzi&logoColor=white" alt="Platzi JavaScript" />
-<img src="https://img.shields.io/badge/MinTIC-Programming_Certification-00B4D8?style=flat&logo=code&logoColor=white" alt="MinTIC" />
-</p>
+### 🎓 Programming & Development
+
+> **Git y GitHub** - *Platzi*
+> 
+> [![Certificate](https://img.shields.io/badge/Git_y_GitHub-98CA3F?style=flat&logo=platzi&logoColor=white)](https://platzi.com/p/cupinacop/curso/11059-gitgithub/diploma/detalle/)
+> [![View Certificate](https://img.shields.io/badge/Ver_Certificado-181717?style=flat&logo=certificate&logoColor=white)](https://platzi.com/p/cupinacop/curso/11059-gitgithub/diploma/detalle/)
+> 
+> Comprehensive course on version control with Git and collaboration through GitHub, including branching strategies, merge conflicts resolution, and best practices for team development.
+
+> **Bootcamp Desarrollo Web Full Stack** - *Certika*
+> 
+> [![Certificate](https://img.shields.io/badge/Full_Stack_Bootcamp-FF6B35?style=flat&logo=html5&logoColor=white)](https://app.certika.co/certificate/OTk0MTY)
+> [![View Certificate](https://img.shields.io/badge/Ver_Certificado-181717?style=flat&logo=certificate&logoColor=white)](https://app.certika.co/certificate/OTk0MTY)
+> 
+> Intensive bootcamp covering HTML, CSS, JavaScript, DOM manipulation, and Python. Gained hands-on experience building dynamic web applications and understanding both frontend and backend development fundamentals.
+
+### ☁️ DevOps & Cloud
+
+> **DevOps on AWS and Project Management** - *Coursera*
+> 
+> [![Certificate](https://img.shields.io/badge/DevOps_AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
+> [![View Certificate](https://img.shields.io/badge/Ver_Certificado-181717?style=flat&logo=certificate&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
+> 
+> Comprehensive training in DevOps practices on AWS cloud platform and project management methodologies. Covered CI/CD pipelines, infrastructure as code, monitoring, and agile project management techniques.
 
 <div align="center">
   <h1>Tech Stack</h1>
