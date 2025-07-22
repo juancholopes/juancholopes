@@ -166,10 +166,19 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 ### ☁️ DevOps & Cloud
 
-> **DevOps on AWS and Project Management** - *Coursera*
+> **DevOps on AWS and Project Management** - *Amazon Web Service*
 > 
 > [![Certificate](https://img.shields.io/badge/DevOps_AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
 > [![View](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=LinkeDin&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
+> 
+> Comprehensive training in DevOps practices on AWS cloud platform and project management methodologies. Covered CI/CD pipelines, infrastructure as code, monitoring, and agile project management techniques.
+
+### 🔒 Cibersegurity
+
+> **Cibersecurity Fundamentals** - *IBM*
+> 
+> [![Certificate](https://img.shields.io/badge/Cibersecurity_Fundamentals-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/bed6c707-70de-4c09-8e3b-84f4cedb79aa/public_url)
+> [![View](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=LinkeDin&logoColor=white)](https://www.credly.com/badges/bed6c707-70de-4c09-8e3b-84f4cedb79aa/public_url)
 > 
 > Comprehensive training in DevOps practices on AWS cloud platform and project management methodologies. Covered CI/CD pipelines, infrastructure as code, monitoring, and agile project management techniques.
 
