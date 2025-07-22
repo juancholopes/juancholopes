@@ -256,6 +256,12 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 - 🌍 **Language Learning**: Learn to speak English fluently to connect with more people and get better job opportunities
 - 🎓 **Education**: Start a Software Engineering degree (Bachelor's Degree)
 
+## Tech Stack Goals 
+
+- 🚀 **Learn Astro**: Astro is considered one of the most prominent JavaScript frameworks, and I intend to study it in the near future to enhance my development skills.
+- ☕ **Learn Java**: Actually, Java was the first programming language in which I wrote my first "Hello World" (not easy) and I wanted to reconcile with it and learn it.
+- 🚄 **Learn Fast API**: It's one of the best frameworks for building solid backends (also built by a Colombian), so I'd like to learn it and apply it to projects.
+
 <div align="center">
   <h1>Contact With Me</h1>
 </div>
