@@ -159,8 +159,8 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 
 > **Full Stack Web Development Bootcamp** - *Ministry of ICT (MinTIC)*
 > 
-> [![Certificate](https://img.shields.io/badge/Full_Stack_Bootcamp-FF6B35?style=flat&logo=html5&logoColor=white)]((https://app.certika.co/certificate/OTk0MTY))
-> [![View Certificate](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=certificate&logoColor=white)]((https://app.certika.co/certificate/OTk0MTY))
+> [![Certificate](https://img.shields.io/badge/Full_Stack_Bootcamp-FF6B35?style=flat&logo=html5&logoColor=white)](https://app.certika.co/certificate/OTk0MTY)
+> [![View Certificate](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=certificate&logoColor=white)](https://app.certika.co/certificate/OTk0MTY)
 > 
 > Intensive bootcamp covering HTML, CSS, JavaScript, DOM manipulation, and Python. Gained hands-on experience building dynamic web applications and understanding both frontend and backend development fundamentals.
 
@@ -169,7 +169,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 > **DevOps on AWS and Project Management** - *Coursera*
 > 
 > [![Certificate](https://img.shields.io/badge/DevOps_AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
-> [![View](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
+> [![View](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=LinkeDin&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
 > 
 > Comprehensive training in DevOps practices on AWS cloud platform and project management methodologies. Covered CI/CD pipelines, infrastructure as code, monitoring, and agile project management techniques.
 
