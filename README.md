@@ -153,7 +153,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 > **Git y GitHub** - *Platzi*
 > 
 > [![Certificate](https://img.shields.io/badge/Git_y_GitHub-98CA3F?style=flat&logo=platzi&logoColor=white)](https://platzi.com/p/cupinacop/curso/11059-gitgithub/diploma/detalle/)
-> [![View Certificate](https://img.shields.io/badge/Ver_Certificado-181717?style=flat&logo=certificate&logoColor=white)](https://platzi.com/p/cupinacop/curso/11059-gitgithub/diploma/detalle/)
+> [![View Certificate](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=certificate&logoColor=white)](https://platzi.com/p/cupinacop/curso/11059-gitgithub/diploma/detalle/)
 > 
 > Comprehensive course on version control with Git and collaboration through GitHub, including branching strategies, merge conflicts resolution, and best practices for team development.
 
@@ -169,7 +169,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 > **DevOps on AWS and Project Management** - *Coursera*
 > 
 > [![Certificate](https://img.shields.io/badge/DevOps_AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
-> [![View](https://img.shields.io/badge/Ver_Certificado-181717?style=flat&logo=certificate&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
+> [![View](https://img.shields.io/badge/View_Certificate-181717?style=flat&logo=certificate&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/UB9JHSSKK5EL)
 > 
 > Comprehensive training in DevOps practices on AWS cloud platform and project management methodologies. Covered CI/CD pipelines, infrastructure as code, monitoring, and agile project management techniques.
 
