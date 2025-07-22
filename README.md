@@ -23,7 +23,7 @@
 
 </div>
 
-Hello everyone, my name is **Juan Carlos Lopez**, affectionately called **Juancho**. I was born and raised in a small countryside town dedicated to **☕ specialty coffee production** in Colombia. My parents are from the countryside and dedicate themselves to producing **specialty coffee** - I grew up in the countryside and it's something I'm deeply **proud of**. I love coffee, and it's curious how almost all developers seem to share this same passion! 
+Hello everyone, my name is 𝓙𝓾𝓪𝓷 𝓒𝓪𝓻𝓵𝓸𝓼 𝓛𝓸𝓹𝓮𝔃 𝓜𝓸𝓻𝓮𝓷𝓸, affectionately called **Juancho**. I was born and raised in a small countryside town dedicated to **☕ specialty coffee production** in Colombia. My parents are from the countryside and dedicate themselves to producing **specialty coffee** - I grew up in the countryside and it's something I'm deeply **proud of**. I love coffee, and it's curious how almost all developers seem to share this same passion! 
 
 I started programming and fell in love with this industry a few years ago. Like everyone starting in the world of software development, there are countless paths to choose from. Initially, I wanted to dedicate myself to **🔐 cybersecurity**, but gradually I found my calling in **🌐 web development** and, more broadly, developing applications and services that can be deployed on **☁️ cloud infrastructure**. 
 
