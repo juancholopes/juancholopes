@@ -157,7 +157,7 @@ I try to be **organized and pragmatic** with my life, and this covers almost eve
 > 
 > Comprehensive course on version control with Git and collaboration through GitHub, including branching strategies, merge conflicts resolution, and best practices for team development.
 
-> **Bootcamp Desarrollo Web Full Stack** - *Certika*
+> **Bootcamp Desarrollo Web Full Stack** - *MIN Tic*
 > 
 > [![Certificate](https://img.shields.io/badge/Full_Stack_Bootcamp-FF6B35?style=flat&logo=html5&logoColor=white)](https://app.certika.co/certificate/OTk0MTY)
 > [![View Certificate](https://img.shields.io/badge/Ver_Certificado-181717?style=flat&logo=certificate&logoColor=white)](https://app.certika.co/certificate/OTk0MTY)
