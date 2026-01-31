@@ -19,3 +19,5 @@ El mundo del desarrollo de software en cualquier rama es supremamente competitiv
 La inteligencia artificial es sin duda alguna una muy buena herramienta puedes construir buenos prototipos fácilmente, puedes solucionar un problema de tipado específico (muy común en TypeScript y a veces un dolor de cabeza) o puedes solucionar bugs simples de importación, sin embargo creo que para desarrollar código escalable y mantenible a largo plazo es dificil de hacerlo, es mas como una herramienta pero de doble filo, si la usas en exceso en un par de prompts ya tienes un menjurge de código que no sabes ni lo que hace, por eso siempre me enfoco en aprender a leer código de la IA y a poder debugearlo y decidir cuando si va y cuando no.
 
 Siempre me enfoco en aprender de manera correcta, y eso también implica programar porque para aprender a hacerlo pues simplemente hay que programar y retroalimentarse en el proceso es clave para aprender.
+
+> **Tip:** Puedes ver aquí abajo algunos de mis proyectos principales 👇🏼.
