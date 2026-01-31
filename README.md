@@ -20,5 +20,5 @@ La inteligencia artificial es sin duda alguna una muy buena herramienta puedes c
 
 Siempre me enfoco en aprender de manera correcta, y eso también implica programar porque para aprender a hacerlo pues simplemente hay que programar y retroalimentarse en el proceso es clave para aprender.
 
-> [!TIP]
-> Puedes ver más sobre mi trayectoria en mi [portafolio](https://juancholopez.netlify.app). También puedes ver algunos de mis proyectos principales aquí abajo 👇🏼.
+> **Note**
+> Puedes ver más sobre mi trayectoria en mi [portafolio](https://juancholopez.netlify.app). > También puedes ver algunos de mis proyectos principales aquí abajo 👇🏼
