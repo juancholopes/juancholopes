@@ -1,3 +1,5 @@
+![My GitHub Game](game.gif)
+
 <div style="text-align:center;">
     <img src="https://img.shields.io/github/watchers/juancholopes/juancholopes" alt="Watchers">
 </div>
